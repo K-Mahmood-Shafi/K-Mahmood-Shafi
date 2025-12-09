@@ -55,21 +55,6 @@ A complete UI automation framework with:
 
 ---
 
-### 🔸 **Web Development Project – College Website**  
-Developed the official college website with improved UI/UX, dynamic sections, optimized loading,  
-and clean responsive design.  
-*(Upload this soon — I will help you create the README for it.)*
-
----
-
-## 📊 GitHub Stats  
-
-![Mahmood's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Mahmood-Shafi&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-Mahmood-Shafi&layout=compact&theme=tokyonight)  
-
----
-
 ## 🤝 Connect With Me  
 
 📧 Email: **mahmoodshafi1605@gmail.com**  
