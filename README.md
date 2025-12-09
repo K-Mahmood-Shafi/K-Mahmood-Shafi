@@ -74,7 +74,6 @@ A complete UI automation framework with:
 ## 🤝 Connect With Me  
 
 📧 Email: **mahmoodshafi1605@gmail.com**  
-🔗 LinkedIn: *(Add your LinkedIn link here)*  
 
 ---
 
