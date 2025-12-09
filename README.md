@@ -38,6 +38,22 @@ I enjoy building automation frameworks, solving testing challenges, and improvin
 ---
 
 ## 📂 Featured Projects  
+### 🎯 Amazon Shopping Automation Framework (Java + Selenium + TestNG + Maven)
+
+A complete eCommerce automation flow for Amazon.in with:
+
+✔ Product search automation  
+✔ Dynamic result identification & scrolling  
+✔ JavaScript-based product selection  
+✔ Multi-window/tab switching  
+✔ Product title extraction & validation  
+✔ Add-to-cart automation  
+✔ “Added to Cart” success verification  
+✔ Cart page item validation  
+
+🛒 **Project Link:**  
+[https://github.com/YOUR-USERNAME/YOUR-REPOSITORY](https://github.com/K-Mahmood-Shafi/amazon-shopping-automation)
+
 
 ### 🔸 **Selenium Automation Framework (Java + TestNG + Maven)**  
 A complete UI automation framework with:  
