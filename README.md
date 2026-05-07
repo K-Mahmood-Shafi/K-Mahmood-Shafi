@@ -1,39 +1,52 @@
 # 🌟 Hi, I'm Mahmood Shafi  
-🧪 **Software QA Engineer | Selenium Automation | Java | TestNG | API Testing**
+🧪 **Software QA Tester | Manual Testing | SQL | Agile Methodology**
 
 ---
 
 ## 🚀 About Me  
-I am a passionate Software QA Engineer with hands-on experience in **Automation Testing** using  
-**Selenium WebDriver, Java, TestNG, Maven**, and **API Testing** using Postman.  
-I enjoy building automation frameworks, solving testing challenges, and improving software quality through efficient test design.
+I am an enthusiastic Software QA Tester with knowledge of **Manual Testing, SDLC, STLC, Functional Testing, Regression Testing, Defect Reporting, and Agile Methodology**.
 
+I have experience in writing and executing **test cases, identifying bugs, and working with SQL** for database-related operations. I also have basic knowledge of **Selenium Automation** Testing.
+
+I enjoy improving software quality, learning modern testing practices, and solving real-world testing challenges.
 ---
 
 ## 🛠️ Tech Stack  
 
-### 🔹 Automation & QA  
-- Selenium WebDriver  
-- Java  
-- TestNG  
-- Maven  
-- Postman  
-- API Testing  
-- Automation Framework Design  
-- Test Case Design & Bug Reporting  
+## 🔹 Manual Testing & QA
 
-### 🔹 Programming  
-- Java  
-- HTML, CSS  
-- Basic JavaScript  
+• Functional Testing  
+• Regression Testing  
+• Smoke Testing  
+• Sanity Testing  
+• UI Testing  
+• Defect Reporting  
+• Test Case Design  
+• SDLC & STLC  
+• Agile Methodology  
 
-### 🔹 Tools  
-- Eclipse  
-- IntelliJ  
-- Git & GitHub  
-- Chrome DevTools  
-- Swagger  
-- Postman  
+
+## 🔹 Database
+
+• SQL  
+• MySQL  
+
+
+## 🔹 Programming
+
+• Java  
+• Basic JavaScript  
+• HTML & CSS  
+
+
+## 🔹 Tools
+
+• Jira (Basic Knowledge)  
+• Excel  
+• Git & GitHub  
+• Chrome DevTools  
+• Eclipse  
+• IntelliJ IDEA  
 
 ---
 
@@ -55,19 +68,37 @@ A complete eCommerce automation flow for Amazon.in with:
 [https://github.com/YOUR-USERNAME/YOUR-REPOSITORY](https://github.com/K-Mahmood-Shafi/amazon-shopping-automation)
 
 
-### 🔸 **Selenium Automation Framework (Java + TestNG + Maven)**  
-A complete UI automation framework with:  
-✔ Locator automation  
-✔ Dynamic & auto-suggest dropdowns  
-✔ Actions class interactions  
-✔ Alerts & frames  
-✔ Multi-window/tab handling  
-✔ Calendar automation  
-✔ Screenshot handling  
-✔ End-to-end ecommerce checkout flow  
+## 🛒 E-Commerce Website Testing
+
+A Manual Testing project for validating core eCommerce functionalities.
+
+### Modules Tested
+
+• Login Module  
+• Product Search  
+• Cart Management  
+• Checkout Flow  
+• Order Placement  
+
+### Testing Types Performed
+
+• Functional Testing  
+• Regression Testing  
+• Smoke Testing  
+• UI Testing  
+• Usability Testing  
+
+### Project Highlights
+
+• Designed and executed test cases  
+• Identified and documented defects  
+• Performed manual validation of workflows  
+• Followed Agile testing practices  
+• Worked with SDLC & STLC concepts  
+
 
 👉 **Project Link:**  
-🔗 https://github.com/K-Mahmood-Shafi/Selenium-Automation-Framework  
+🔗[ https://github.com/K-Mahmood-Shafi/Selenium-Automation-Framework ](https://github.com/K-Mahmood-Shafi/E-Commerce-Website-Testing) 
 
 ---
 
