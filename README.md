@@ -72,7 +72,7 @@ A complete eCommerce automation flow for Amazon.in with:
 
 A Manual Testing project for validating core eCommerce functionalities.
 
-### Modules Tested
+### 🔹Modules Tested
 
 • Login Module  
 • Product Search  
@@ -80,7 +80,7 @@ A Manual Testing project for validating core eCommerce functionalities.
 • Checkout Flow  
 • Order Placement  
 
-### Testing Types Performed
+### 🔹Testing Types Performed
 
 • Functional Testing  
 • Regression Testing  
@@ -88,7 +88,7 @@ A Manual Testing project for validating core eCommerce functionalities.
 • UI Testing  
 • Usability Testing  
 
-### Project Highlights
+### 🔹Project Highlights
 
 • Designed and executed test cases  
 • Identified and documented defects  
