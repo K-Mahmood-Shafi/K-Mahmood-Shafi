@@ -1,5 +1,5 @@
 # 🌟 Hi, I'm Mahmood Shafi  
-🧪 **Software QA Tester | Manual Testing | SQL | Agile Methodology**
+🧪 **Software QA Tester | Manual Testing | Automation Testing | SQL | Agile Methodology**
 
 ---
 
